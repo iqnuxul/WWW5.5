@@ -2,7 +2,7 @@
 
 > *Let creation be a tree that can see its own growth.*
 
-**🌐 Live App**: [https://which-witch-v1-mnoigi2vi-whichwitch.vercel.app/](https://which-witch-v1-mnoigi2vi-whichwitch.vercel.app/)  
+**🌐 Live App**: https://which-witch-v1.vercel.app/
 *Fully deployed with smart contracts, database, MetaMask wallet integration, and IPFS storage. Don't hesitate to try!*
 
 **📊 Presentation**: [View on Canva](https://www.canva.com/design/DAG5t6aAKIU/JLK99jHgZNk_ge5mS-qDsQ/view?utm_content=DAG5t6aAKIU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a5cb0fa9a)
